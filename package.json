@@ -1,6 +1,6 @@
 {
-  "name": "spatineo-valuetree",
-  "version": "0.0.1",
+  "name": "@spatineo/spatineo-valuetree",
+  "version": "0.0.2",
   "description": "spatineo valutree app",
   "scripts": {
     "rollup": "rollup -c"
@@ -23,6 +23,9 @@
     "dist"
   ],
   "types": "dist/index.d.ts",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/spatineo"
+  },
   "dependencies": {
     "tslib": "^2.4.0"
   }
