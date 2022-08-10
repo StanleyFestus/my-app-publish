@@ -24,7 +24,7 @@
   ],
   "types": "dist/index.d.ts",
   "publishConfig": {
-    "registry": "https://registry.npmjs.org//spatineo"
+    "registry": "https://npm.pkg.github.com/spatineo"
   },
   "dependencies": {
     "tslib": "^2.4.0"
