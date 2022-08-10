@@ -1,5 +1,5 @@
 {
-  "name": "@spatineo/spatineo-valuetree",
+  "name": "@stanleyfestus/spatineo-valuetree",
   "version": "0.0.3",
   "description": "spatineo valutree app",
   "scripts": {
@@ -24,7 +24,7 @@
   ],
   "types": "dist/index.d.ts",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/StanleyFestus"
+    "registry": "https://npm.pkg.github.com/stanleyfestus"
   },
   "dependencies": {
     "tslib": "^2.4.0"
